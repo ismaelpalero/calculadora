@@ -6,7 +6,7 @@
 package calculadora;
 
 /**
- *
+ *Esto es un nuevo comentario
  * @author dam
  */
 public class Calculadora {
